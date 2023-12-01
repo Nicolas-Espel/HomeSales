@@ -53,9 +53,6 @@ class Program {
         salesPerson = Convert.ToChar(Console.ReadLine());
         salesPerson = char.ToLower(salesPerson);
         }
-      // if (salesPerson == 'z') {
-      //   break;
-      // }
     }
     
     
